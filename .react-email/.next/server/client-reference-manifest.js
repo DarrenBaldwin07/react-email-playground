@@ -1,8 +1,8 @@
 self.__RSC_MANIFEST={
   "__ssr_module_mapping__": {
-    "(app-client)/./node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/app-router.js": {
+    "(app-client)/./node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/app-router.js": {
       "*": {
-        "id": "(sc_client)/./node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/app-router.js",
+        "id": "(sc_client)/./node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/app-router.js",
         "chunks": [
           "app-client-internals:app-client-internals"
         ],
@@ -10,7 +10,7 @@ self.__RSC_MANIFEST={
         "async": false
       },
       "": {
-        "id": "(sc_client)/./node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/app-router.js",
+        "id": "(sc_client)/./node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/app-router.js",
         "chunks": [
           "app-client-internals:app-client-internals"
         ],
@@ -18,7 +18,7 @@ self.__RSC_MANIFEST={
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/app-router.js",
+        "id": "(sc_client)/./node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/app-router.js",
         "chunks": [
           "app-client-internals:app-client-internals"
         ],
@@ -26,9 +26,9 @@ self.__RSC_MANIFEST={
         "async": false
       }
     },
-    "(app-client)/./node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/error-boundary.js": {
+    "(app-client)/./node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/error-boundary.js": {
       "*": {
-        "id": "(sc_client)/./node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/error-boundary.js",
+        "id": "(sc_client)/./node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/error-boundary.js",
         "chunks": [
           "app-client-internals:app-client-internals"
         ],
@@ -36,7 +36,7 @@ self.__RSC_MANIFEST={
         "async": false
       },
       "": {
-        "id": "(sc_client)/./node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/error-boundary.js",
+        "id": "(sc_client)/./node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/error-boundary.js",
         "chunks": [
           "app-client-internals:app-client-internals"
         ],
@@ -44,7 +44,7 @@ self.__RSC_MANIFEST={
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/error-boundary.js",
+        "id": "(sc_client)/./node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/error-boundary.js",
         "chunks": [
           "app-client-internals:app-client-internals"
         ],
@@ -52,9 +52,9 @@ self.__RSC_MANIFEST={
         "async": false
       }
     },
-    "(app-client)/./node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/layout-router.js": {
+    "(app-client)/./node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/layout-router.js": {
       "*": {
-        "id": "(sc_client)/./node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/layout-router.js",
+        "id": "(sc_client)/./node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/layout-router.js",
         "chunks": [
           "app-client-internals:app-client-internals"
         ],
@@ -62,7 +62,7 @@ self.__RSC_MANIFEST={
         "async": false
       },
       "": {
-        "id": "(sc_client)/./node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/layout-router.js",
+        "id": "(sc_client)/./node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/layout-router.js",
         "chunks": [
           "app-client-internals:app-client-internals"
         ],
@@ -70,7 +70,7 @@ self.__RSC_MANIFEST={
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/layout-router.js",
+        "id": "(sc_client)/./node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/layout-router.js",
         "chunks": [
           "app-client-internals:app-client-internals"
         ],
@@ -78,9 +78,9 @@ self.__RSC_MANIFEST={
         "async": false
       }
     },
-    "(app-client)/./node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/render-from-template-context.js": {
+    "(app-client)/./node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/render-from-template-context.js": {
       "*": {
-        "id": "(sc_client)/./node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/render-from-template-context.js",
+        "id": "(sc_client)/./node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/render-from-template-context.js",
         "chunks": [
           "app-client-internals:app-client-internals"
         ],
@@ -88,7 +88,7 @@ self.__RSC_MANIFEST={
         "async": false
       },
       "": {
-        "id": "(sc_client)/./node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/render-from-template-context.js",
+        "id": "(sc_client)/./node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/render-from-template-context.js",
         "chunks": [
           "app-client-internals:app-client-internals"
         ],
@@ -96,35 +96,9 @@ self.__RSC_MANIFEST={
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/render-from-template-context.js",
+        "id": "(sc_client)/./node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/render-from-template-context.js",
         "chunks": [
           "app-client-internals:app-client-internals"
-        ],
-        "name": "default",
-        "async": false
-      }
-    },
-    "(app-client)/./src/app/home.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/app/home.tsx",
-        "chunks": [
-          "app/page:app/page"
-        ],
-        "name": "*",
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/app/home.tsx",
-        "chunks": [
-          "app/page:app/page"
-        ],
-        "name": "",
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/app/home.tsx",
-        "chunks": [
-          "app/page:app/page"
         ],
         "name": "default",
         "async": false
@@ -159,252 +133,223 @@ self.__RSC_MANIFEST={
   },
   "__edge_ssr_module_mapping__": {},
   "__entry_css_files__": {
-    "/Users/JRDarrenbaldwin/Documents/Coding/EmailDevelopment/rezon-launch/react-email-starter/.react-email/src/app/page": [
-      "static/css/app/page.css"
-    ],
-    "/Users/JRDarrenbaldwin/Documents/Coding/EmailDevelopment/rezon-launch/react-email-starter/.react-email/src/app/preview/[slug]/page": [
+    "/Users/waldo/Desktop/react-email-playground/.react-email/src/app/preview/[slug]/page": [
       "static/css/app/preview/[slug]/page.css"
     ],
-    "/Users/JRDarrenbaldwin/Documents/Coding/EmailDevelopment/rezon-launch/react-email-starter/.react-email/src/app/layout": [
+    "/Users/waldo/Desktop/react-email-playground/.react-email/src/app/layout": [
       "static/css/_app-client_src_styles_globals_css.css",
-      "static/css/_app-client_node_modules_pnpm_next_13_2_4_biqbaboplfbrettd7655fr4n2y_node_modules_next_font_g-fe22d4.css"
+      "static/css/_app-client_node_modules_pnpm_next_13_2_4_react-dom_18_2_0_react_18_2_0_node_modules_next_fon-94eca2.css"
     ]
   },
-  "/Users/JRDarrenbaldwin/Documents/Coding/EmailDevelopment/rezon-launch/react-email-starter/.react-email/node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/app-router.js": {
-    "id": "(app-client)/./node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/app-router.js",
+  "/Users/waldo/Desktop/react-email-playground/.react-email/node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/app-router.js": {
+    "id": "(app-client)/./node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/app-router.js",
     "chunks": [
       "app-client-internals:app-client-internals"
     ],
     "name": "*",
     "async": false
   },
-  "/Users/JRDarrenbaldwin/Documents/Coding/EmailDevelopment/rezon-launch/react-email-starter/.react-email/node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/esm/client/components/app-router.js": {
-    "id": "(app-client)/./node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/app-router.js",
+  "/Users/waldo/Desktop/react-email-playground/.react-email/node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/esm/client/components/app-router.js": {
+    "id": "(app-client)/./node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/app-router.js",
     "chunks": [
       "app-client-internals:app-client-internals"
     ],
     "name": "*",
     "async": false
   },
-  "/Users/JRDarrenbaldwin/Documents/Coding/EmailDevelopment/rezon-launch/react-email-starter/.react-email/node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/app-router.js#": {
-    "id": "(app-client)/./node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/app-router.js",
+  "/Users/waldo/Desktop/react-email-playground/.react-email/node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/app-router.js#": {
+    "id": "(app-client)/./node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/app-router.js",
     "chunks": [
       "app-client-internals:app-client-internals"
     ],
     "name": "",
     "async": false
   },
-  "/Users/JRDarrenbaldwin/Documents/Coding/EmailDevelopment/rezon-launch/react-email-starter/.react-email/node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/esm/client/components/app-router.js#": {
-    "id": "(app-client)/./node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/app-router.js",
+  "/Users/waldo/Desktop/react-email-playground/.react-email/node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/esm/client/components/app-router.js#": {
+    "id": "(app-client)/./node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/app-router.js",
     "chunks": [
       "app-client-internals:app-client-internals"
     ],
     "name": "",
     "async": false
   },
-  "/Users/JRDarrenbaldwin/Documents/Coding/EmailDevelopment/rezon-launch/react-email-starter/.react-email/node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/app-router.js#default": {
-    "id": "(app-client)/./node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/app-router.js",
+  "/Users/waldo/Desktop/react-email-playground/.react-email/node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/app-router.js#default": {
+    "id": "(app-client)/./node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/app-router.js",
     "chunks": [
       "app-client-internals:app-client-internals"
     ],
     "name": "default",
     "async": false
   },
-  "/Users/JRDarrenbaldwin/Documents/Coding/EmailDevelopment/rezon-launch/react-email-starter/.react-email/node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/esm/client/components/app-router.js#default": {
-    "id": "(app-client)/./node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/app-router.js",
+  "/Users/waldo/Desktop/react-email-playground/.react-email/node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/esm/client/components/app-router.js#default": {
+    "id": "(app-client)/./node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/app-router.js",
     "chunks": [
       "app-client-internals:app-client-internals"
     ],
     "name": "default",
     "async": false
   },
-  "/Users/JRDarrenbaldwin/Documents/Coding/EmailDevelopment/rezon-launch/react-email-starter/.react-email/node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/error-boundary.js": {
-    "id": "(app-client)/./node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/error-boundary.js",
+  "/Users/waldo/Desktop/react-email-playground/.react-email/node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/error-boundary.js": {
+    "id": "(app-client)/./node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/error-boundary.js",
     "chunks": [
       "app-client-internals:app-client-internals"
     ],
     "name": "*",
     "async": false
   },
-  "/Users/JRDarrenbaldwin/Documents/Coding/EmailDevelopment/rezon-launch/react-email-starter/.react-email/node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/esm/client/components/error-boundary.js": {
-    "id": "(app-client)/./node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/error-boundary.js",
+  "/Users/waldo/Desktop/react-email-playground/.react-email/node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/esm/client/components/error-boundary.js": {
+    "id": "(app-client)/./node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/error-boundary.js",
     "chunks": [
       "app-client-internals:app-client-internals"
     ],
     "name": "*",
     "async": false
   },
-  "/Users/JRDarrenbaldwin/Documents/Coding/EmailDevelopment/rezon-launch/react-email-starter/.react-email/node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/error-boundary.js#": {
-    "id": "(app-client)/./node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/error-boundary.js",
+  "/Users/waldo/Desktop/react-email-playground/.react-email/node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/error-boundary.js#": {
+    "id": "(app-client)/./node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/error-boundary.js",
     "chunks": [
       "app-client-internals:app-client-internals"
     ],
     "name": "",
     "async": false
   },
-  "/Users/JRDarrenbaldwin/Documents/Coding/EmailDevelopment/rezon-launch/react-email-starter/.react-email/node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/esm/client/components/error-boundary.js#": {
-    "id": "(app-client)/./node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/error-boundary.js",
+  "/Users/waldo/Desktop/react-email-playground/.react-email/node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/esm/client/components/error-boundary.js#": {
+    "id": "(app-client)/./node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/error-boundary.js",
     "chunks": [
       "app-client-internals:app-client-internals"
     ],
     "name": "",
     "async": false
   },
-  "/Users/JRDarrenbaldwin/Documents/Coding/EmailDevelopment/rezon-launch/react-email-starter/.react-email/node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/error-boundary.js#default": {
-    "id": "(app-client)/./node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/error-boundary.js",
+  "/Users/waldo/Desktop/react-email-playground/.react-email/node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/error-boundary.js#default": {
+    "id": "(app-client)/./node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/error-boundary.js",
     "chunks": [
       "app-client-internals:app-client-internals"
     ],
     "name": "default",
     "async": false
   },
-  "/Users/JRDarrenbaldwin/Documents/Coding/EmailDevelopment/rezon-launch/react-email-starter/.react-email/node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/esm/client/components/error-boundary.js#default": {
-    "id": "(app-client)/./node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/error-boundary.js",
+  "/Users/waldo/Desktop/react-email-playground/.react-email/node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/esm/client/components/error-boundary.js#default": {
+    "id": "(app-client)/./node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/error-boundary.js",
     "chunks": [
       "app-client-internals:app-client-internals"
     ],
     "name": "default",
     "async": false
   },
-  "/Users/JRDarrenbaldwin/Documents/Coding/EmailDevelopment/rezon-launch/react-email-starter/.react-email/node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/layout-router.js": {
-    "id": "(app-client)/./node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/layout-router.js",
+  "/Users/waldo/Desktop/react-email-playground/.react-email/node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/layout-router.js": {
+    "id": "(app-client)/./node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/layout-router.js",
     "chunks": [
       "app-client-internals:app-client-internals"
     ],
     "name": "*",
     "async": false
   },
-  "/Users/JRDarrenbaldwin/Documents/Coding/EmailDevelopment/rezon-launch/react-email-starter/.react-email/node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/esm/client/components/layout-router.js": {
-    "id": "(app-client)/./node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/layout-router.js",
+  "/Users/waldo/Desktop/react-email-playground/.react-email/node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/esm/client/components/layout-router.js": {
+    "id": "(app-client)/./node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/layout-router.js",
     "chunks": [
       "app-client-internals:app-client-internals"
     ],
     "name": "*",
     "async": false
   },
-  "/Users/JRDarrenbaldwin/Documents/Coding/EmailDevelopment/rezon-launch/react-email-starter/.react-email/node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/layout-router.js#": {
-    "id": "(app-client)/./node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/layout-router.js",
+  "/Users/waldo/Desktop/react-email-playground/.react-email/node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/layout-router.js#": {
+    "id": "(app-client)/./node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/layout-router.js",
     "chunks": [
       "app-client-internals:app-client-internals"
     ],
     "name": "",
     "async": false
   },
-  "/Users/JRDarrenbaldwin/Documents/Coding/EmailDevelopment/rezon-launch/react-email-starter/.react-email/node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/esm/client/components/layout-router.js#": {
-    "id": "(app-client)/./node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/layout-router.js",
+  "/Users/waldo/Desktop/react-email-playground/.react-email/node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/esm/client/components/layout-router.js#": {
+    "id": "(app-client)/./node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/layout-router.js",
     "chunks": [
       "app-client-internals:app-client-internals"
     ],
     "name": "",
     "async": false
   },
-  "/Users/JRDarrenbaldwin/Documents/Coding/EmailDevelopment/rezon-launch/react-email-starter/.react-email/node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/layout-router.js#default": {
-    "id": "(app-client)/./node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/layout-router.js",
+  "/Users/waldo/Desktop/react-email-playground/.react-email/node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/layout-router.js#default": {
+    "id": "(app-client)/./node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/layout-router.js",
     "chunks": [
       "app-client-internals:app-client-internals"
     ],
     "name": "default",
     "async": false
   },
-  "/Users/JRDarrenbaldwin/Documents/Coding/EmailDevelopment/rezon-launch/react-email-starter/.react-email/node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/esm/client/components/layout-router.js#default": {
-    "id": "(app-client)/./node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/layout-router.js",
+  "/Users/waldo/Desktop/react-email-playground/.react-email/node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/esm/client/components/layout-router.js#default": {
+    "id": "(app-client)/./node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/layout-router.js",
     "chunks": [
       "app-client-internals:app-client-internals"
     ],
     "name": "default",
     "async": false
   },
-  "/Users/JRDarrenbaldwin/Documents/Coding/EmailDevelopment/rezon-launch/react-email-starter/.react-email/node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/render-from-template-context.js": {
-    "id": "(app-client)/./node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/render-from-template-context.js",
+  "/Users/waldo/Desktop/react-email-playground/.react-email/node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/render-from-template-context.js": {
+    "id": "(app-client)/./node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/render-from-template-context.js",
     "chunks": [
       "app-client-internals:app-client-internals"
     ],
     "name": "*",
     "async": false
   },
-  "/Users/JRDarrenbaldwin/Documents/Coding/EmailDevelopment/rezon-launch/react-email-starter/.react-email/node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/esm/client/components/render-from-template-context.js": {
-    "id": "(app-client)/./node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/render-from-template-context.js",
+  "/Users/waldo/Desktop/react-email-playground/.react-email/node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/esm/client/components/render-from-template-context.js": {
+    "id": "(app-client)/./node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/render-from-template-context.js",
     "chunks": [
       "app-client-internals:app-client-internals"
     ],
     "name": "*",
     "async": false
   },
-  "/Users/JRDarrenbaldwin/Documents/Coding/EmailDevelopment/rezon-launch/react-email-starter/.react-email/node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/render-from-template-context.js#": {
-    "id": "(app-client)/./node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/render-from-template-context.js",
+  "/Users/waldo/Desktop/react-email-playground/.react-email/node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/render-from-template-context.js#": {
+    "id": "(app-client)/./node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/render-from-template-context.js",
     "chunks": [
       "app-client-internals:app-client-internals"
     ],
     "name": "",
     "async": false
   },
-  "/Users/JRDarrenbaldwin/Documents/Coding/EmailDevelopment/rezon-launch/react-email-starter/.react-email/node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/esm/client/components/render-from-template-context.js#": {
-    "id": "(app-client)/./node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/render-from-template-context.js",
+  "/Users/waldo/Desktop/react-email-playground/.react-email/node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/esm/client/components/render-from-template-context.js#": {
+    "id": "(app-client)/./node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/render-from-template-context.js",
     "chunks": [
       "app-client-internals:app-client-internals"
     ],
     "name": "",
     "async": false
   },
-  "/Users/JRDarrenbaldwin/Documents/Coding/EmailDevelopment/rezon-launch/react-email-starter/.react-email/node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/render-from-template-context.js#default": {
-    "id": "(app-client)/./node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/render-from-template-context.js",
+  "/Users/waldo/Desktop/react-email-playground/.react-email/node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/render-from-template-context.js#default": {
+    "id": "(app-client)/./node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/render-from-template-context.js",
     "chunks": [
       "app-client-internals:app-client-internals"
     ],
     "name": "default",
     "async": false
   },
-  "/Users/JRDarrenbaldwin/Documents/Coding/EmailDevelopment/rezon-launch/react-email-starter/.react-email/node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/esm/client/components/render-from-template-context.js#default": {
-    "id": "(app-client)/./node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/dist/client/components/render-from-template-context.js",
+  "/Users/waldo/Desktop/react-email-playground/.react-email/node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/esm/client/components/render-from-template-context.js#default": {
+    "id": "(app-client)/./node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/render-from-template-context.js",
     "chunks": [
       "app-client-internals:app-client-internals"
     ],
     "name": "default",
     "async": false
   },
-  "/Users/JRDarrenbaldwin/Documents/Coding/EmailDevelopment/rezon-launch/react-email-starter/.react-email/src/styles/globals.css#": {
+  "/Users/waldo/Desktop/react-email-playground/.react-email/src/styles/globals.css#": {
     "id": "null",
     "name": "",
     "chunks": [
-      "static/css/app/page.css",
       "static/css/app/preview/[slug]/page.css",
       "static/css/_app-client_src_styles_globals_css.css"
     ]
   },
-  "/Users/JRDarrenbaldwin/Documents/Coding/EmailDevelopment/rezon-launch/react-email-starter/.react-email/node_modules/.pnpm/next@13.2.4_biqbaboplfbrettd7655fr4n2y/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-inter\"}],\"variableName\":\"inter\"}#": {
+  "/Users/waldo/Desktop/react-email-playground/.react-email/node_modules/.pnpm/next@13.2.4_react-dom@18.2.0_react@18.2.0/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-inter\"}],\"variableName\":\"inter\"}#": {
     "id": "null",
     "name": "",
     "chunks": [
-      "static/css/app/page.css",
       "static/css/app/preview/[slug]/page.css",
-      "static/css/_app-client_node_modules_pnpm_next_13_2_4_biqbaboplfbrettd7655fr4n2y_node_modules_next_font_g-fe22d4.css"
+      "static/css/_app-client_node_modules_pnpm_next_13_2_4_react-dom_18_2_0_react_18_2_0_node_modules_next_fon-94eca2.css"
     ]
   },
-  "/Users/JRDarrenbaldwin/Documents/Coding/EmailDevelopment/rezon-launch/react-email-starter/.react-email/src/app/home.tsx": {
-    "id": "(app-client)/./src/app/home.tsx",
-    "chunks": [
-      "app/page:app/page"
-    ],
-    "name": "*",
-    "async": false
-  },
-  "/Users/JRDarrenbaldwin/Documents/Coding/EmailDevelopment/rezon-launch/react-email-starter/.react-email/src/app/home.tsx#": {
-    "id": "(app-client)/./src/app/home.tsx",
-    "chunks": [
-      "app/page:app/page"
-    ],
-    "name": "",
-    "async": false
-  },
-  "/Users/JRDarrenbaldwin/Documents/Coding/EmailDevelopment/rezon-launch/react-email-starter/.react-email/src/app/home.tsx#default": {
-    "id": "(app-client)/./src/app/home.tsx",
-    "chunks": [
-      "app/page:app/page"
-    ],
-    "name": "default",
-    "async": false
-  },
-  "/Users/JRDarrenbaldwin/Documents/Coding/EmailDevelopment/rezon-launch/react-email-starter/.react-email/src/app/preview/[slug]/preview.tsx": {
+  "/Users/waldo/Desktop/react-email-playground/.react-email/src/app/preview/[slug]/preview.tsx": {
     "id": "(app-client)/./src/app/preview/[slug]/preview.tsx",
     "chunks": [
       "app/preview/[slug]/page:app/preview/[slug]/page"
@@ -412,7 +357,7 @@ self.__RSC_MANIFEST={
     "name": "*",
     "async": false
   },
-  "/Users/JRDarrenbaldwin/Documents/Coding/EmailDevelopment/rezon-launch/react-email-starter/.react-email/src/app/preview/[slug]/preview.tsx#": {
+  "/Users/waldo/Desktop/react-email-playground/.react-email/src/app/preview/[slug]/preview.tsx#": {
     "id": "(app-client)/./src/app/preview/[slug]/preview.tsx",
     "chunks": [
       "app/preview/[slug]/page:app/preview/[slug]/page"
@@ -420,7 +365,7 @@ self.__RSC_MANIFEST={
     "name": "",
     "async": false
   },
-  "/Users/JRDarrenbaldwin/Documents/Coding/EmailDevelopment/rezon-launch/react-email-starter/.react-email/src/app/preview/[slug]/preview.tsx#default": {
+  "/Users/waldo/Desktop/react-email-playground/.react-email/src/app/preview/[slug]/preview.tsx#default": {
     "id": "(app-client)/./src/app/preview/[slug]/preview.tsx",
     "chunks": [
       "app/preview/[slug]/page:app/preview/[slug]/page"
