@@ -129,12 +129,41 @@ self.__RSC_MANIFEST={
         "name": "default",
         "async": false
       }
+    },
+    "(app-client)/./src/app/home.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/app/home.tsx",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/home.tsx",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "name": "",
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/home.tsx",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "name": "default",
+        "async": false
+      }
     }
   },
   "__edge_ssr_module_mapping__": {},
   "__entry_css_files__": {
     "/Users/waldo/Desktop/react-email-playground/.react-email/src/app/preview/[slug]/page": [
       "static/css/app/preview/[slug]/page.css"
+    ],
+    "/Users/waldo/Desktop/react-email-playground/.react-email/src/app/page": [
+      "static/css/app/page.css"
     ],
     "/Users/waldo/Desktop/react-email-playground/.react-email/src/app/layout": [
       "static/css/_app-client_src_styles_globals_css.css",
@@ -338,6 +367,7 @@ self.__RSC_MANIFEST={
     "name": "",
     "chunks": [
       "static/css/app/preview/[slug]/page.css",
+      "static/css/app/page.css",
       "static/css/_app-client_src_styles_globals_css.css"
     ]
   },
@@ -346,6 +376,7 @@ self.__RSC_MANIFEST={
     "name": "",
     "chunks": [
       "static/css/app/preview/[slug]/page.css",
+      "static/css/app/page.css",
       "static/css/_app-client_node_modules_pnpm_next_13_2_4_react-dom_18_2_0_react_18_2_0_node_modules_next_fon-94eca2.css"
     ]
   },
@@ -369,6 +400,30 @@ self.__RSC_MANIFEST={
     "id": "(app-client)/./src/app/preview/[slug]/preview.tsx",
     "chunks": [
       "app/preview/[slug]/page:app/preview/[slug]/page"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/waldo/Desktop/react-email-playground/.react-email/src/app/home.tsx": {
+    "id": "(app-client)/./src/app/home.tsx",
+    "chunks": [
+      "app/page:app/page"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/waldo/Desktop/react-email-playground/.react-email/src/app/home.tsx#": {
+    "id": "(app-client)/./src/app/home.tsx",
+    "chunks": [
+      "app/page:app/page"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/waldo/Desktop/react-email-playground/.react-email/src/app/home.tsx#default": {
+    "id": "(app-client)/./src/app/home.tsx",
+    "chunks": [
+      "app/page:app/page"
     ],
     "name": "default",
     "async": false
