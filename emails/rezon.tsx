@@ -41,7 +41,7 @@ export const RezonEmail = ({
           <div style={headerIcons}>
             <Link href={docsLink}>
               <Img
-                src="https://storage.googleapis.com/rezon/images/docs-logo.png"
+                src="https://storage.googleapis.com/rezon/images/docs-logo-pro.png"
                 height={20}
                 alt="Documentation"
               />
@@ -103,7 +103,7 @@ export const RezonEmail = ({
           }}
         />
         <Text style={footer}>Rezon Software Inc.</Text>
-        <Text style={footer}>2900 Reading Rd Cincinnati, OH 45206</Text>
+        <Text style={footer}>Made with ❤️ in Cincinnati, OH</Text>
       </Container>
     </Body>
   </Html>
@@ -134,6 +134,8 @@ const header = {
 const headerIcons = {
   display: "flex",
   gap: "16px",
+  // marginRight: "16px",
+  // float: "right",
 };
 
 const heading = {
